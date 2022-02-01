@@ -1,4 +1,4 @@
-import Ceramic from '@ceramicnetwork/core'
+import { Ceramic } from '@ceramicnetwork/core'
 import * as IPFS from 'ipfs-core'
 import dagJose from 'dag-jose'
 import { convert } from 'blockcodec-to-ipld-format'
