@@ -10,8 +10,10 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@ceramicnetwork/3id-did-resolver": "^1.4.17-rc.0",
     "@ceramicnetwork/core": "^1.13.0",
     "dag-jose": "^1.0.0",
-    "ipfs-core": "^0.14.0"
+    "key-did-resolver": "^1.4.5-rc.0",
+    "ipfs-core": "~0.7.1"
   }
 }
